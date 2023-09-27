@@ -6,7 +6,8 @@ using DataFrames
 using StatsBase
 using Plots
 using DimensionalData
-tre = CSV.File("C:\\Users\\wayne\\PycharmProjects\\SIR\\smallLandscape.csv",header=false)|>Tables.matrix
+# the file can be found in the same repository
+tre = CSV.File("https://github.com/wl415/Summer-project-on-time-dependent-infectivity-and-detectability/blob/main/smallLandscape.csv",header=false)|>Tables.matrix
 distance = zeros(1111, 1111)
 for i in 1:1111
     for j in 1:1111
