@@ -17,4 +17,6 @@ Among the repositories there are also julia codes that are affiliated with the n
 
 
 citation
+
+
  Bassanezi, R.B. & Bassanezi, R.C. 2008 An approach to model the impact of Huanglongbing on citrus yield. In Proceedings of the International Research Conference on Huanglongbing (eds. T.R. Gottwald & J.H. Graham). Orlando, Florida, Plant Management Network. https://swfrec.ifas.ufl.edu/hlb/database/pdf/22_IRCHLB_08.pdf 
